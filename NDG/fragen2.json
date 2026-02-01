@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Welcher dieser Begriffe ist keine Eigenschaft erneuerbarer Energien?",
+    "options": {
+      "a": "Dezentralisierung",
+      "b": "Partizipation",
+      "c": "Smart Meter",
+      "d": "Volatilität"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Wie lautet der höchste Reifegrad der Data Analysis?",
+    "options": {
+      "a": "Prescriptive Analytics",
+      "b": "Strategic Analytics",
+      "c": "Advanced Analytics",
+      "d": "Predictive Analytics"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Worin liegt der Unterschied zwischen einem Micro Grid und Smart Grid?",
+    "options": {
+      "a": "Dezentralisierung",
+      "b": "Dekarbonisierung",
+      "c": "Autarkie",
+      "d": "Demokratisierung"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Wie viele Sustainable Development Goals (SDGs) wurden von den Vereinten Nationen (UN) festgelegt?",
+    "options": {
+      "a": "19",
+      "b": "12",
+      "c": "21",
+      "d": "17"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was sind wesentliche Eigenschaften von proprietärer Software?",
+    "options": {
+      "a": "Die Software ist meist kostenlos verfügbar",
+      "b": "Das Nutzungsrecht wird in Form einer Lizenz erteilt",
+      "c": "Vervielfältigung, Weiterverbreitung und Modifikation sind untersagt",
+      "d": "Eigentümer der Software ist nicht der Anwender, sondern weiterhin der Hersteller, denn er hat das Urheberrecht und die vollständige Kontrolle über das Produkt"
+    },
+    "correct": ["b", "c", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Welches Mobilitätsproblem wird durch E-Mobilität gelöst?",
+    "options": {
+      "a": "Treibhausgas- (THG-) Emissionen",
+      "b": "Stau",
+      "c": "Unfälle",
+      "d": "Flächenbedarf"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche Problematiken existieren hinsichtlich der Gewinnung und Produktion von seltenen Rohstoffen in den Herkunftsländern?",
+    "options": {
+      "a": "Umweltverschmutzung",
+      "b": "Kinderarbeit",
+      "c": "Hohe Personalkosten",
+      "d": "Menschenunwürdige Arbeitsbedingungen"
+    },
+    "correct": ["a", "b", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was ist kein Vorteil von Open Source?",
+    "options": {
+      "a": "Open Source ermöglicht keinen Einblick in den Quellcode und ist daher besonders sicher",
+      "b": "Open Source bietet die Möglichkeit die individuellen Bedürfnisse und Anforderungen von Nutzenden zu berücksichtigen",
+      "c": "Open Source kann die Abhängigkeit von bestimmten Anbietern reduzieren",
+      "d": "Open Source kann dazu beitragen, dass Software effizienter und ressourcenschonender genutzt wird"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "In welchem jahr soll laut den Pariser Klimazielen globale THG-Neutralität erreicht werden?",
+    "options": {
+      "a": "2040",
+      "b": "2050",
+      "c": "2045",
+      "d": "2060"
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche Vorteile bieten digitale Technologien im Rahmen einer nachhaltigen Entwicklung?",
+    "options": {
+      "a": "Verbesserung der Kommunikation und Vernetzung",
+      "b": "Schaffung von Vendor-Lock-in-Effekten",
+      "c": "Entstehung digitaler Monopole",
+      "d": "Effizienzsteigerungen: Reduktion von Energie und Ressourcen"
+    },
+    "correct": ["a", "d"],
+    "points": 1.0
+  }
+]

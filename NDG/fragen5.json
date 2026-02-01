@@ -1,0 +1,430 @@
+[
+  {
+    "question": "Frage 01: Was meint der Begriff 'Geplante Obsoleszenz'?",
+    "options": {
+      "a": "Bedürfnis nach etwas neuem, obwohl die genutzten Produkte noch funktionstüchtig sind",
+      "b": "Illegale Elektroschrottexporte",
+      "c": "Umweltkontamination beim Hinterhofrecycling",
+      "d": "Den vorzeitigen Verschleiß bzw. eine kürzere Nutzungsdauer eines Produkts"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 02: Was regelt das Lieferkettensorgfaltspflichtengesetz?",
+    "options": {
+      "a": "Recht auf faire Löhne",
+      "b": "Schutz vor Kinderarbeit",
+      "c": "Qualität recycelter Produkte",
+      "d": "Schutz der Umwelt"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 03: Was ist kein Vorteil des Einsatzes der Digitalisierung im Agrarsektor?",
+    "options": {
+      "a": "Bessere Qualität der Lebensmittel",
+      "b": "Verringerung der Umweltwirkungen",
+      "c": "Steigerung der Produktivität",
+      "d": "Kosten für die Implementierung von Digitalisierungsmethoden"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 04: Welche Probleme existieren bei der Herstellung und Nutzung moderner Technologien?",
+    "options": {
+      "a": "Energieverbrauch digitaler Technologien kann deren Einsparungen übersteigen",
+      "b": "Limitierte Verfügbarkeit bestimmter Materialien und Rohstoffe",
+      "c": "Vermeidung von Abfall und Verschwendung",
+      "d": "Rohstoffe werden oftmals unter fragwürdigen Bedingungen abgebaut"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 05: Daten werden umgangssprachlich oft auch als ... bezeichnet.",
+    "options": {
+      "a": "Das neue Rohöl",
+      "b": "Das neue Gold",
+      "c": "Der neue Wasserstoff",
+      "d": "Das neue Edelmetall"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 06: Welche Aussagen zu Trollfabriken sind korrekt?",
+    "options": {
+      "a": "Trollfabriken bekämpfen Greenwashing",
+      "b": "In Trollfabriken werden mittels verifizierter Accounts wissenschaftliche Berichte für die sozialen Medien erstellt",
+      "c": "Trollfabriken sind Organisationen, die systematisch Falschnachrichten bekämpfen",
+      "d": "Trollfabriken sind Organisationen, die systematisch und koordiniert in sozialen Netzwerken oder Online-Plattformen Falschinformationen und Propaganda verbreiten"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 07: Was sind Gründe dafür, dass Opfer eines Ransomware-Angriffs nicht auf die Zahlung eines Lösegelds eingehen sollten?",
+    "options": {
+      "a": "Die verschlüsselten Daten lassen sich häufig leicht wieder entschlüsseln und machen die Zahlung eines Lösegelds daher nicht notwendig",
+      "b": "Es gibt keine Garantie, dass die Daten tatsächlich freigegeben werden",
+      "c": "Einmal ausgeleihte Daten sind grundsätzlich als kompromittiert zu betrachten",
+      "d": "Es besteht die Möglichkeit, dass ein fehlerhaftes Entschlüsselungstool bereitgestellt wird"
+    },
+    "correct": ["b", "d"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 08: Welches ist keines der Schutzziele von IT-Security?",
+    "options": {
+      "a": "Integrität",
+      "b": "Verfügbarkeit",
+      "c": "Vertraulichkeit",
+      "d": "Offenheit"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 09: Was sind mögliche Maßnahmen zur Einsparung von Energie in Städten?",
+    "options": {
+      "a": "Ausbau des Personennahverkehrs",
+      "b": "Sanierung von Altbauten",
+      "c": "Schaffung einer höheren Baudichte",
+      "d": "Einführung eines Tempolimits"
+    },
+    "correct": ["a", "c", "d"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 10: Warum ist Credibility für die Anwendung von digitalen Technologien relevant?",
+    "options": {
+      "a": "Credibility ist eine notwendige Voraussetzung, um die Akzeptanz für digitale Technologien zu schaffen",
+      "b": "Credibility ist eine notwendige Voraussetzung, um Elektrofahrzeuge mit dem Stromnetz zu verbinden",
+      "c": "Credibility ist eine notwendige Voraussetzung, um die Anwendung von digitalen Technologien zu fördern",
+      "d": "Credibility ist eine notwendige Voraussetzung, um Greenwashing zu betreiben"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 11: Welcher dieser Begriffe ist keine Eigenschaft erneuerbarer Energien?",
+    "options": {
+      "a": "Dezentralisierung",
+      "b": "Partizipation",
+      "c": "Smart Meter",
+      "d": "Volatilität"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 12: Wie lautet der höchste Reifegrad der Data Analysis?",
+    "options": {
+      "a": "Prescriptive Analytics",
+      "b": "Strategic Analytics",
+      "c": "Advanced Analytics",
+      "d": "Predictive Analytics"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 13: Worin liegt der Unterschied zwischen einem Micro Grid und Smart Grid?",
+    "options": {
+      "a": "Dezentralisierung",
+      "b": "Dekarbonisierung",
+      "c": "Autarkie",
+      "d": "Demokratisierung"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 14: Wie viele Sustainable Development Goals (SDGs) wurden von den Vereinten Nationen (UN) festgelegt?",
+    "options": {
+      "a": "19",
+      "b": "12",
+      "c": "21",
+      "d": "17"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 15: Was sind wesentliche Eigenschaften von proprietärer Software?",
+    "options": {
+      "a": "Die Software ist meist kostenlos verfügbar",
+      "b": "Das Nutzungsrecht wird in Form einer Lizenz erteilt",
+      "c": "Vervielfältigung, Weiterverbreitung und Modifikation sind untersagt",
+      "d": "Eigentümer der Software ist nicht der Anwender, sondern weiterhin der Hersteller"
+    },
+    "correct": ["b", "c"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 16: Welches Mobilitätsproblem wird durch E-Mobilität gelöst?",
+    "options": {
+      "a": "Treibhausgas-(THG)-Emissionen",
+      "b": "Stau",
+      "c": "Unfälle",
+      "d": "Flächenbedarf"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 17: Welche Problematiken existieren hinsichtlich der Gewinnung und Produktion von seltenen Rohstoffen in den Herkunftsländern?",
+    "options": {
+      "a": "Umweltverschmutzung",
+      "b": "Kinderarbeit",
+      "c": "Hohe Personalkosten",
+      "d": "Menschenunwürdige Arbeitsbedingungen"
+    },
+    "correct": ["a", "b", "d"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 18: Was ist kein Vorteil von Open Source?",
+    "options": {
+      "a": "Open Source ermöglicht keinen Einblick in den Quellcode und ist daher besonders sicher",
+      "b": "Open Source bietet die Möglichkeit die individuellen Bedürfnisse und Anforderungen von Nutzenden zu berücksichtigen",
+      "c": "Open Source kann die Abhängigkeit von bestimmten Anbietern reduzieren",
+      "d": "Open Source kann dazu beitragen, dass Software effizienter und ressourcenschonender genutzt wird"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 19: In welchem Jahr soll laut den Pariser Klimazielen globale THG-Neutralität erreicht werden?",
+    "options": {
+      "a": "2040",
+      "b": "2050",
+      "c": "2045",
+      "d": "2060"
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 20: Welche Vorteile bieten digitale Technologien im Rahmen einer nachhaltigen Entwicklung?",
+    "options": {
+      "a": "Verbesserung der Kommunikation und Vernetzung",
+      "b": "Schaffung von Vendor-Lock-in-Effekten",
+      "c": "Entstehung digitaler Monopole",
+      "d": "Effizienzsteigerungen: Reduktion von Energie und Ressourcen"
+    },
+    "correct": ["a", "d"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 21: Was ist die dominanteste Mobilitätsform im deutschen Modalsplit (bezogen auf die Gesamtkilometer)?",
+    "options": {
+      "a": "ÖPNV",
+      "b": "PKW",
+      "c": "Fahrrad"
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 22: Welche dieser Maßnahmen dienen der Bekämpfung von Greenwashing?",
+    "options": {
+      "a": "Transparenz",
+      "b": "Kontrolle unabhängiger Instanzen",
+      "c": "Vergleichbare Definitionen",
+      "d": "Selbst gemachte Labels"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 23: Was sind Folgen des Wandels von der 'alten' Energiewelt hin zur 'neuen' Energiewelt?",
+    "options": {
+      "a": "Auch kleine Energiemengen werden übertragen",
+      "b": "Der Markt ist grenzübergreifend und weniger zentral",
+      "c": "Die Energieverteilung ist beidseitig, Kunden nehmen vermehrt aktiv am System teil und produzieren",
+      "d": "Die Energieproduktion wandelt sich zu mehr großen Energieproduzenten"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 24: Welche dieser Eigenschaften gehört zur neuen Energiewelt?",
+    "options": {
+      "a": "Top-to-bottom",
+      "b": "Bidirektionalität",
+      "c": "Zentralität",
+      "d": "Dezentralität"
+    },
+    "correct": ["b", "d"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 25: Welcher der folgenden Punkte stellt ein Risiko durch unzureichende IT-Sicherheit bei der Nutzung von Smart Metern dar?",
+    "options": {
+      "a": "Langsame Reaktionsfähigkeit auf Schwankungen im Energienetz",
+      "b": "Tiefgehende Verhaltensanalyse des Endnutzers",
+      "c": "Unvorhersehbare Netzausfälle",
+      "d": "Schnellere Datenübertragung"
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 26: Welche Möglichkeiten bietet der Einsatz von digitalen Technologien bei der Umsetzung der Agrarwende?",
+    "options": {
+      "a": "Entwicklung und Betrieb von Vertical-Farming-Anlagen",
+      "b": "Einsatz von Satellitennavigation mit Korrektursignalen zur verbesserten Steuerung",
+      "c": "Nachverfolgung der Kühlkette von Lebensmitteln",
+      "d": "Einsatz von Monitoring-Technologien zur Berechnung des Düngebedarfs"
+    },
+    "correct": ["a", "d"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 27: Welches dieser Ziele ist nicht Inhalt der Energiewende?",
+    "options": {
+      "a": "Erhöhung der Energieeffizienz",
+      "b": "Ausbau erneuerbarer Energien",
+      "c": "Sektorenkopplung",
+      "d": "Stabilisierung der Netze durch Braunkohlekraftwerke"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 28: Warum können digitale Monopole problematisch sein?",
+    "options": {
+      "a": "Digitale Monopole bieten den Nutzern einen einheitlichen Service",
+      "b": "Missbrauchsmöglichkeiten durch enorme Datenbestände",
+      "c": "Mehr Ungleichheit bei Einkommen und Vermögen (Gewinnabschöpfung)",
+      "d": "Erhöhte Marktmacht und politische Einflussnahme"
+    },
+    "correct": ["b", "c"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 29: Welcher Sektor stößt in Deutschland und auch global anteilig am meisten CO2-Äquivalente aus?",
+    "options": {
+      "a": "Gebäudesektor",
+      "b": "Verkehrssektor",
+      "c": "Energiesektor",
+      "d": "Landwirtschaftssektor"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 31: Nennen Sie drei Vorteile von Open-Source Software für eine nachhaltige Gesellschaft (3P)",
+    "options": {
+      "a": "Transparenz",
+      "b": "Kostenfrei",
+      "c": "Anpassbar",
+      "d": "Erhöhte Vendor-Lock-in-Effekte"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 32: Was versteht man unter 'Smart Mobility'? (2P)",
+    "options": {
+      "a": "Verkehr und Transport mithilfe digitaler Technologien steuern und vernetzen",
+      "b": "Reiner Ausbau von Autobahnen",
+      "c": "Abschaffung des Schienenverkehrs",
+      "d": "Erhöhung der Taktung von Dieselbussen ohne IT-Unterstützung"
+    },
+    "correct": ["a"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 33: Nennen Sie 3 Aspekte wie die Digitalisierung im Kontext der Kreislaufwirtschaft eine nachhaltige Entwicklung unterstützt (3P) und erläutern Sie diese (3P).",
+    "options": {
+      "a": "Echtzeit-Monitoring: IoT/Big-Data zur Überwachung von Material- und Energieflüssen",
+      "b": "Digitale Produktpässe: QR-Codes oder Blockchain zur Verfolgung von Bauteilen",
+      "c": "Sharing- und Service-Plattformen: Apps zur Erhöhung der Auslastung vorhandener Ressourcen",
+      "d": "Geplante Obsoleszenz: Kürzere Lebensdauer zur Absatzsteigerung"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 6.0
+  },
+  {
+    "question": "Frage 34: Was beschreibt der Rebound-Effekt? (2P)",
+    "options": {
+      "a": "Dass Effizienz oder geringere Kosten zu einer gesteigerten Nutzung führen",
+      "b": "Dass ein Teil der eingesparten Ressourcen wieder verbraucht wird",
+      "c": "Die vollständige Einsparung aller Ressourcen durch neue Technik",
+      "d": "Die Rückkehr zu analogen Produktionstechniken"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 35: Was versteht man unter Greenwashing? (2P)",
+    "options": {
+      "a": "Schein-Nachhaltigkeit: Unternehmen geben sich umweltfreundlich, ohne es zu sein",
+      "b": "Das tatsächliche Säubern von Meeresplastik",
+      "c": "Die Nutzung von 100% Ökostrom in allen Betriebsstätten",
+      "d": "Echte Transparenz in der Lieferkette"
+    },
+    "correct": ["a"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 36: Nennen Sie zwei Herausforderungen urbaner Räume (2P)",
+    "options": {
+      "a": "Verkehrsüberlastung",
+      "b": "Bezahlbarer Wohnraum",
+      "c": "Zu viel ungenutzte Ackerfläche in Innenstädten",
+      "d": "Mangel an digitalen Unterhaltungsmedien"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 37: Was ist ein Smart Grid und was zeichnet es gegenüber dem herkömmlichen Netz aus? (2P)",
+    "options": {
+      "a": "Stromnetz mit integrierten Sensoren, Kommunikation und Automatisierung",
+      "b": "Echtzeit-Überwachung und Steuerung",
+      "c": "Bidirektionale Energieflüsse (dezentrale Einspeisung)",
+      "d": "Ein rein analoges Netz ohne Datenübertragung"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 38: Aus welchen zwei Faktoren besteht die Verkehrswende? (2P)",
+    "options": {
+      "a": "Verkehrsmittelwechsel",
+      "b": "Antriebswandel",
+      "c": "Erhöhung der Parkgebühren",
+      "d": "Ausbau des Autobahnnetzes"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 39: Was meint Disruption? (3P) Bitte an einem geeigneten Beispiel erläutern! (2P)",
+    "options": {
+      "a": "Radikale Marktveränderung durch neues Produkt oder Geschäftsmodell",
+      "b": "Kriterien: Einfach & günstig, kontinuierliche Verbesserung, Verdrängung",
+      "c": "Eine geringfügige, rein optische Änderung eines bestehenden Produkts",
+      "d": "Die Beibehaltung alter Marktstrukturen trotz neuer Technik"
+    },
+    "correct": ["a", "b"],
+    "points": 5.0
+  },
+  {
+    "question": "Frage 40: Nennen Sie 3 Transformationshemmnisse des Energiesektors (3P) und erläutern Sie diese (3P).",
+    "options": {
+      "a": "Regulatorik: Unklare Gesetze und Förderungen bremsen Investitionen",
+      "b": "Kosten: Hohe Kapital- und Zinsaufwendungen erschweren den Ausbau",
+      "c": "Netz & Speicher: Engpässe im Stromnetz und fehlende Speicher gefährden Stabilität",
+      "d": "Ein Überangebot an kostengünstigen Speicherkapazitäten"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 6.0
+  }
+]

@@ -25,7 +25,7 @@ def load_questions(filenames):
     return all_questions
 
 def run_quiz():
-    files = ['fragen.json', 'fragen2.json', 'fragen3.json', 'fragen4.json']
+    files = ['fragen.json', 'fragen2.json', 'fragen3.json', 'fragen4.json', 'fragen5.json']
     questions = load_questions(files)
     
     if not questions:
