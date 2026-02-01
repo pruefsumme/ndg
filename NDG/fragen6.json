@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Was ist die Definition von Digitalisierung laut der Zusammenfassung?",
+    "options": {
+      "a": "Der reine Verkauf von Hardware und Software.",
+      "b": "Die Verwendung von Daten und algorithmischen Systemen für neue oder verbesserte Prozesse.",
+      "c": "Die Abschaffung analoger Kommunikation in Unternehmen.",
+      "d": "Die Erhöhung der Internetgeschwindigkeit in Städten."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche Kennzeichen (Eigenschaften) charakterisieren die Digitalisierung? (3P)",
+    "options": {
+      "a": "Virtualisierung und Vernetzung der realen Welt.",
+      "b": "Teilen von Daten.",
+      "c": "Daten und Datenmodelle unterliegen keinem physischen Verschleiß.",
+      "d": "Erhöhte Abhängigkeit von physischen Lagerplätzen."
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Was beschreibt der Begriff 'Smart City'?",
+    "options": {
+      "a": "Eine Stadt, die auf jegliche moderne Technologie verzichtet.",
+      "b": "Eine Stadt, die moderne Technologien zur Verbesserung der Lebensqualität nutzt.",
+      "c": "Eine Stadt, die ausschließlich aus digitalen Gebäuden besteht.",
+      "d": "Eine Stadt mit einer hohen Anzahl an Start-up-Unternehmen."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche technologischen Grundlagen gehören zur Digitalisierung? (4P)",
+    "options": {
+      "a": "Sensortechnologie zur Erfassung der Umgebung.",
+      "b": "Big Data zur Analyse großer Datenmengen.",
+      "c": "Robotik zur vollständigen Automatisierung der Produktion.",
+      "d": "Cyber Physische Systeme (CPS) zur Verknüpfung der realen und virtuellen Welt."
+    },
+    "correct": ["a", "b", "c", "d"],
+    "points": 4.0
+  },
+  {
+    "question": "Was versteht man unter 'Disruption'?",
+    "options": {
+      "a": "Ein Prozess, bei dem ein gesamter Markt durch eine schnell wachsende Innovation zerstört wird.",
+      "b": "Die langsame Verbesserung bestehender Produkte.",
+      "c": "Der Schutz etablierter Unternehmen vor neuen Technologien.",
+      "d": "Ein technischer Fehler in einem Rechenzentrum."
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Nennen Sie Herausforderungen der Digitalisierung laut Dokument. (3P)",
+    "options": {
+      "a": "Steigende Aufwendung für Datenschutz und Cybersecurity.",
+      "b": "Weiterbildung der Mitarbeiter im Umgang mit neuen Technologien.",
+      "c": "Hohe Investitionskosten.",
+      "d": "Ein Überfluss an qualifizierten Fachkräften."
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Welche Dimensionen der Nachhaltigkeit werden im Drei-Säulen-Modell genannt?",
+    "options": {
+      "a": "Politik, Technik, Kultur.",
+      "b": "Soziales, Ökologie, Ökonomie.",
+      "c": "Wohnen, Arbeiten, Freizeit.",
+      "d": "Infrastruktur, Bildung, Gesundheit."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Was sind Transformationshemmnisse der Energiewende? (3P)",
+    "options": {
+      "a": "Kurzfristiges Denken (Fokus auf kurzfristige Gewinne).",
+      "b": "Mangelndes Bewusstsein und Unwissenheit über langfristige Auswirkungen.",
+      "c": "Soziale und kulturelle Barrieren (Normen und Traditionen).",
+      "d": "Ein zu schneller technischer Fortschritt."
+    },
+    "correct": ["a", "b", "c"],
+    "points": 6.0
+  },
+  {
+    "question": "Worin liegt der Unterschied zwischen einem Smart Grid und einem Microgrid?",
+    "options": {
+      "a": "Ein Smart Grid ist immer analog, ein Microgrid digital.",
+      "b": "Ein Microgrid ist ein Stromnetz, das autark (als Inselnetz) betrieben werden kann.",
+      "c": "Ein Smart Grid dient nur der Erzeugung, ein Microgrid nur der Speicherung.",
+      "d": "Es gibt keinen Unterschied."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Aus welchen zwei Faktoren besteht die Verkehrswende?",
+    "options": {
+      "a": "Mobilitätswende und Antriebswende.",
+      "b": "Straßenbau und Brückensanierung.",
+      "c": "Fahrpreisreduktion und Netzausbau.",
+      "d": "Tempolimit und Parkverbot."
+    },
+    "correct": ["a"],
+    "points": 2.0
+  },
+  {
+    "question": "Welche Punkte regelt das Lieferkettengesetz bezüglich Menschenrechten? (3P)",
+    "options": {
+      "a": "Schutz vor Landraub.",
+      "b": "Schutz vor Kinderarbeit.",
+      "c": "Arbeits- und Gesundheitsschutz.",
+      "d": "Die Höhe der Managergehälter."
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Was versteht man unter einem 'Vendor Lock-in'?",
+    "options": {
+      "a": "Die Sperrung eines Anbieters durch den Staat.",
+      "b": "Eine Situation, in der ein Anbieterwechsel für den Kunden erschwert wird.",
+      "c": "Die exklusive Belieferung eines Marktes durch einen Händler.",
+      "d": "Ein Sicherheitszertifikat für Software-Quellcodes."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Was sind die Vorteile von Open Source? (3P)",
+    "options": {
+      "a": "Transparenz.",
+      "b": "Sicherheit.",
+      "c": "Gemeinschaftsnutzung.",
+      "d": "Garantierte Kostenlosigkeit in jedem Fall."
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Wie wird IT-Security im Dokument definiert?",
+    "options": {
+      "a": "Die Reparatur von defekten Laptops.",
+      "b": "Der Schutz von Informationssystemen vor Diebstahl, Beschädigung und unerlaubtem Zugriff.",
+      "c": "Die Installation von Windows-Updates.",
+      "d": "Das Erstellen von Excel-Tabellen."
+    },
+    "correct": ["b"],
+    "points": 1.0
+  }
+]

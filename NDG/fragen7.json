@@ -1,0 +1,409 @@
+[
+  {
+    "question": "Frage 01: Was ist das Lieferkettengesetz?",
+    "options": {
+      "a": "Einhaltung der Menschenrechte in globalen Lieferketten",
+      "b": "Regelung zur Steuervermeidung",
+      "c": "Gesetz zur Förderung erneuerbarer Energien",
+      "d": "Verordnung zur Datensicherheit"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 02: Daten sind das neue?",
+    "options": {
+      "a": "Gold",
+      "b": "Silber",
+      "c": "Rohöl",
+      "d": "Kohle"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 03: Unterschied zwischen Micro-Grid und Smart-Grid?",
+    "options": {
+      "a": "Micro-Grid ist ein kleines lokales Netz, Smart-Grid ist ein intelligentes Stromnetz",
+      "b": "Micro-Grid ist ein großer Stromanbieter, Smart-Grid ist ein kleiner Netzbetreiber",
+      "c": "Micro-Grid ist eine manuelle Steuerung, Smart-Grid ist eine automatische Steuerung",
+      "d": "Micro-Grid ist ein geschlossenes System, Smart-Grid ist ein offenes System"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 04: Was ist das häufigste genutzte Verkehrsmittel in Deutschland und generell in der EU, welches am meisten Emissionen auslöst?",
+    "options": {
+      "a": "Auto",
+      "b": "Flugzeug",
+      "c": "Zug",
+      "d": "Fahrrad"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 05: Was sind Troll Factories?",
+    "options": {
+      "a": "Fabriken, die Troll-Puppen herstellen",
+      "b": "Orte, an denen Fake News verbreitet werden",
+      "c": "Unternehmen, die Recycling betreiben",
+      "d": "Werkstätten für Reparaturen"
+    },
+    "correct": ["b"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 06: Was ist in Bezug auf IT-Sicherheit und Digitalisierung das größte Problem?",
+    "options": {
+      "a": "Datenschutz",
+      "b": "Hardware-Verschleiß",
+      "c": "Benutzerfreundlichkeit",
+      "d": "Netzwerkausfälle"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 07: Was ist kein Vorteil von Open-Source?",
+    "options": {
+      "a": "Transparenz",
+      "b": "Sicherheit",
+      "c": "Gemeinschaftsunterstützung",
+      "d": "Hohe Kosten"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 08: Was ist ein Vorteil von Micro-Grid?",
+    "options": {
+      "a": "Hohe Flexibilität",
+      "b": "Hohe Installationskosten",
+      "c": "Hohe Abhängigkeit von Großkraftwerken",
+      "d": "Hoher Energieverlust"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 09: Was sind digitale Ansätze im Agrarsektor?",
+    "options": {
+      "a": "Precision Farming",
+      "b": "Manuelle Ernte",
+      "c": "Papierbasierte Aufzeichnungen",
+      "d": "Traditionelle Bewässerungsmethoden"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 10: Was sind Nachteile von digitalen Monopolen?",
+    "options": {
+      "a": "Weniger Wettbewerb",
+      "b": "Bessere Dienstleistungsqualität",
+      "c": "Niedrigere Preise",
+      "d": "Höhere Innovationskraft"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 11: Was ist ein großes Problem im Hinblick auf Smart Meter?",
+    "options": {
+      "a": "Hohe Installationskosten",
+      "b": "Störanfälligkeit",
+      "c": "Analyse des menschlichen Verhaltens",
+      "d": "Niedrige Datenübertragungsrate"
+    },
+    "correct": ["c"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 12: Was sind die Hauptvorteile von erneuerbaren Energien?",
+    "options": {
+      "a": "Unerschöpflichkeit und geringe Umweltbelastung",
+      "b": "Hohe Betriebskosten",
+      "c": "Abhängigkeit von fossilen Brennstoffen",
+      "d": "Hoher CO2-Ausstoß"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 13: Was versteht man unter Industrie 4.0?",
+    "options": {
+      "a": "Automatisierung und Datenaustausch in der Fertigungstechnik",
+      "b": "Einführung von Dampfmaschinen",
+      "c": "Entwicklung von einfachen Handwerkzeugen",
+      "d": "Nutzung von fossilen Brennstoffen"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 14: Was bedeutet der Begriff Internet der Dinge (IoT)?",
+    "options": {
+      "a": "Vernetzung physischer Objekte mit dem Internet",
+      "b": "Kommunikation zwischen Menschen",
+      "c": "Manuelle Steuerung von Maschinen",
+      "d": "Verwendung von Social Media"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 15: Was ist ein Cyber-Angriff?",
+    "options": {
+      "a": "Eine gezielte Attacke auf IT-Systeme",
+      "b": "Eine physische Auseinandersetzung",
+      "c": "Eine Naturkatastrophe",
+      "d": "Ein finanzieller Verlust"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 16: Was beschreibt die Blockchain-Technologie?",
+    "options": {
+      "a": "Eine dezentrale Datenbankstruktur",
+      "b": "Eine zentrale Serverstruktur",
+      "c": "Eine herkömmliche Datenbank",
+      "d": "Ein simples Dateisystem"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 17: Was ist ein wesentlicher Vorteil von Cloud Computing?",
+    "options": {
+      "a": "Skalierbarkeit und Flexibilität",
+      "b": "Hohe Wartungskosten",
+      "c": "Begrenzter Speicherplatz",
+      "d": "Eingeschränkte Zugänglichkeit"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 18: Was bedeutet künstliche Intelligenz (KI)?",
+    "options": {
+      "a": "Maschinen, die menschenähnliche Intelligenz zeigen",
+      "b": "Natürliche Intelligenz von Tieren",
+      "c": "Manuelle Steuerung von Computern",
+      "d": "Einfache Rechenoperationen"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 19: Was sind erneuerbare Energien?",
+    "options": {
+      "a": "Energiequellen, die sich natürlich regenerieren",
+      "b": "Energiequellen, die fossile Brennstoffe nutzen",
+      "c": "Energiequellen, die nicht erneuert werden können",
+      "d": "Energiequellen, die hohe Emissionen verursachen"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 20: Was versteht man unter Big Data?",
+    "options": {
+      "a": "Große Mengen an Daten, die analysiert und verarbeitet werden",
+      "b": "Kleine, unstrukturierte Datenmengen",
+      "c": "Daten, die nicht digital vorliegen",
+      "d": "Alte, ungenutzte Daten"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 21: Was ist eine Smart City?",
+    "options": {
+      "a": "Eine Stadt, die moderne Technologien zur Verbesserung der Lebensqualität nutzt",
+      "b": "Eine Stadt ohne technologische Infrastruktur",
+      "c": "Eine Stadt mit hoher Umweltverschmutzung",
+      "d": "Eine verlassene Stadt"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 22: Was bedeutet Nachhaltigkeit?",
+    "options": {
+      "a": "Langfristige Erhaltung natürlicher Ressourcen",
+      "b": "Kurzfristiger Gewinn",
+      "c": "Maximale Ausbeutung von Ressourcen",
+      "d": "Hoher Energieverbrauch"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 23: Was ist das Ziel der Energiewende?",
+    "options": {
+      "a": "Umstieg auf erneuerbare Energien und Reduktion von CO2-Emissionen",
+      "b": "Erhöhung des Energieverbrauchs",
+      "c": "Ausbau fossiler Energien",
+      "d": "Verringerung des Anteils erneuerbarer Energien"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 24: Was bedeutet Elektromobilität?",
+    "options": {
+      "a": "Nutzung von Fahrzeugen mit elektrischem Antrieb",
+      "b": "Nutzung von Fahrzeugen mit fossilem Antrieb",
+      "c": "Nutzung von Fahrzeugen ohne Antrieb",
+      "d": "Nutzung von Fahrzeugen mit Wasserstoffantrieb"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 25: Was ist eine Kreislaufwirtschaft?",
+    "options": {
+      "a": "Ein System, das Abfall reduziert und Ressourcen wiederverwendet",
+      "b": "Ein System, das auf Einwegprodukte setzt",
+      "c": "Ein System, das keine Recyclingprozesse beinhaltet",
+      "d": "Ein System, das nur auf fossilen Brennstoffen basiert"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 26: Was ist ein Smart Home?",
+    "options": {
+      "a": "Ein Zuhause, das mit vernetzten Geräten ausgestattet ist",
+      "b": "Ein traditionelles Zuhause ohne Technologie",
+      "c": "Ein Zuhause ohne Internetverbindung",
+      "d": "Ein Zuhause mit hohem Energieverbrauch"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 27: Was sind erneuerbare Energien?",
+    "options": {
+      "a": "Solarenergie, Windenergie, Wasserkraft, Biomasse und Geothermie",
+      "b": "Kohle, Erdöl, Erdgas und Atomenergie",
+      "c": "Holz, Papier, Kunststoff und Glas",
+      "d": "Kupfer, Eisen, Aluminium und Blei"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 28: Was ist das Ziel der Digitalisierung in der Wirtschaft?",
+    "options": {
+      "a": "Effizienzsteigerung und Innovationsförderung",
+      "b": "Erhöhung der manuellen Arbeit",
+      "c": "Reduzierung der Automatisierung",
+      "d": "Verringerung der Produktion"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Frage 29: Was ist eine disruptive Technologie und ein Beispiel dazu? (3P)",
+    "options": {
+      "a": "Eine Innovation, die bestehende Märkte/Produkte vollständig verdrängt",
+      "b": "Beispiel: Smartphone (verdrängt Handy/Kamera) oder Streaming",
+      "c": "Eine Technologie, die nur kleine Verbesserungen bringt",
+      "d": "Beispiel: Ein etwas schnelleres Auto"
+    },
+    "correct": ["a", "b"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 30: Was ist der Rebound-Effekt? (2P)",
+    "options": {
+      "a": "Effizienzsteigerungen führen durch Verhaltensänderung zu Mehrkonsum, statt zu Einsparung",
+      "b": "Effizienzsteigerungen führen immer zu direkter Ressourceneinsparung",
+      "c": "Produkte werden schneller weggeworfen",
+      "d": "Recyclingquoten steigen automatisch"
+    },
+    "correct": ["a"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 31: Was ist Greenwashing?",
+    "options": {
+      "a": "Der Versuch von Unternehmen, sich durch PR als umweltfreundlicher darzustellen als sie sind",
+      "b": "Das Reinigen von verschmutzter Umwelt",
+      "c": "Eine gesetzliche Vorgabe zur Nachhaltigkeitsberichtserstattung",
+      "d": "Förderung von Grünflächen in Städten"
+    },
+    "correct": ["a"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 32: Was sind die zwei Teile der Verkehrswende?",
+    "options": {
+      "a": "Mobilitätswende (Verhaltensänderung/Modal Shift)",
+      "b": "Antriebswende (Technologiewechsel z.B. Elektro)",
+      "c": "Straßenbauwende (Mehr Autobahnen)",
+      "d": "Preiswende (Günstigeres Benzin)"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 33: Was sind drei Transformationshemmnisse im Bezug auf Digitalisierung und die Energiewende?",
+    "options": {
+      "a": "Hohe Investitionskosten & fehlende Wirtschaftlichkeit",
+      "b": "Datensicherheit & Datenschutzbedenken",
+      "c": "Fehlende Infrastruktur (Breitband/Trassen)",
+      "d": "Zu viel vorhandener grüner Strom"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 3.0
+  },
+  {
+    "question": "Frage 34: Was sind Herausforderungen der Urbanisierung?",
+    "options": {
+      "a": "Hoher Ressourcenverbrauch und Abfallaufkommen",
+      "b": "Luftverschmutzung und Überlastung der Infrastruktur",
+      "c": "Zu wenig Arbeitsplätze in der Stadt",
+      "d": "Sinkende Mietpreise"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 35: Was sind Smart Grids?",
+    "options": {
+      "a": "Intelligente Stromnetze zur kommunikativen Vernetzung von Erzeugern und Verbrauchern",
+      "b": "Dynamischer Ausgleich von Angebot und Nachfrage",
+      "c": "Analoge Stromzähler",
+      "d": "Reine Kupferkabel ohne Steuerung"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  },
+  {
+    "question": "Frage 36: Nenne und erkläre drei Punkte der Digitalisierung, die im Zuge der Kreislaufwirtschaft vorteilhaft sein können. (6P)",
+    "options": {
+      "a": "Digitaler Produktpass (Infos zu Material/Herkunft für Recycling)",
+      "b": "Predictive Maintenance (Lebensdauerverlängerung durch Wartung)",
+      "c": "Sharing Economy Plattformen (Teilen statt besitzen)",
+      "d": "Erhöhung der Einwegprodukte"
+    },
+    "correct": ["a", "b", "c"],
+    "points": 6.0
+  },
+  {
+    "question": "Frage 37: Was ist Smart Mobilität?",
+    "options": {
+      "a": "Nutzung von IT für effizienteren/umweltfreundlicheren Verkehr (z.B. Vernetzung)",
+      "b": "Konzepte wie Mobility-as-a-Service oder autonomes Fahren",
+      "c": "Abschaffung aller digitalen Hilfsmittel im Verkehr",
+      "d": "Ausschließlich Nutzung von Fahrrädern"
+    },
+    "correct": ["a", "b"],
+    "points": 2.0
+  }
+]
